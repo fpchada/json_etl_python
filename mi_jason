@@ -1,0 +1,19 @@
+{
+    "Nombre": "Francisco Javier",
+    "Apellido": "Perez Chada",
+    "DNI": "29.696.677",
+    "Ropa": [
+        {
+            "prenda": "zapatillas",
+            "cantidad": "6"
+        },
+        {
+            "prenda": "trajes",
+            "cantidad": "5"
+        },
+        {
+            "prenda": "camisas",
+            "cantidad": "15"
+        }
+    ]
+}
